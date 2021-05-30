@@ -10,7 +10,8 @@ Nouveautés:
     Affichage des dernières sorti
 
 Genre:
-*Présente les différents genre de livre
+
+    Présente les différents genre de livre
 
 Barre de recherche:
 
